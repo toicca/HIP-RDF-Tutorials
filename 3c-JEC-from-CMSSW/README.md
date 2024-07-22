@@ -39,7 +39,7 @@ Next start the CMSSW environment as above. Then, let's start a notebook that run
 
 If you now open your browser, you can access the notebook session at http://localhost:8080/. You will need a token, which you can find from the terminal where you started the jupyter notebook.
 
-## Running a notebook no Lxplus via Visual Studio Code
+## Running a notebook on Lxplus via Visual Studio Code
 
 If you would like to run the notebook through VSCode you can start by opening the notebook while connected to Lxplus. In the terminal where you have the CMSSW environment loaded start a notebook session as in the example above, but without the port:
 
